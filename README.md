@@ -1,8 +1,12 @@
+<img align="center" src="greenedge.png">
+
 # Greenedge Contest: Energy Aware Image Classification
 
 In this competition, we are calling on participants to develop a model that excels in both energy efficiency and accuracy when classifying the TinyImageNet test set. Specifically, the participants will tackle a multi-class classification problem on this dataset, focusing on optimizing the energy-accuracy trade-off during the inference phase. We’re eager to see innovative approaches that effectively balance minimizing the average energy consumption with delivering accurate results.
 
 [Competition Description](Competition_Description.pdf)
+
+[Example Notebook](greenedge_challenge.ipynb)
 
 ### Who Can Participate?
 
@@ -29,6 +33,8 @@ The evaluation will be based on the following criteria:
 * code (8 points);
 * presentation (8 points).
 
+### Acknowledgements
+The present work has received funding from the European Union’s Horizon 2020 Marie Skłodowska Curie Innovative Training Network Greenedge (GA. No. 953775).
 
 ### Contact Information
 
