@@ -4,9 +4,12 @@
 
 In this competition, we are calling on participants to develop a model that excels in both energy efficiency and accuracy when classifying the TinyImageNet test set. Specifically, the participants will tackle a multi-class classification problem on this dataset, focusing on optimizing the energy-accuracy trade-off during the inference phase. We’re eager to see innovative approaches that effectively balance minimizing the average energy consumption with delivering accurate results.
 
-[Competition Description](Competition_Description.pdf)
+### Useful Links
 
-[Example Notebook](greenedge_challenge.ipynb)
+* [Competition Description](Competition_Description.pdf)
+* [Example Notebook](greenedge_challenge.ipynb)
+* [General Description for Greenedge Contests](https://greenedge-itn.eu/contest/)
+* [Registration Form](https://docs.google.com/forms/d/1yRJeGClPCQ2gYcFEnlYAFMhkZ9-wMnOJwHa8VXHpn6M/)
 
 ### Who Can Participate?
 
