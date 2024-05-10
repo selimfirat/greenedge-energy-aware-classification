@@ -1,4 +1,7 @@
-<img align="center" src="greenedge.png">
+<img src="greenedge.png" height=100> **CHALLENGE**
+
+---
+
 
 # Greenedge Contest: Energy Aware Image Classification
 
