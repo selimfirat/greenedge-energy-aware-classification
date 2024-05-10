@@ -2,7 +2,7 @@
 
 In this competition, we are calling on participants to develop a model that excels in both energy efficiency and accuracy when classifying the TinyImageNet test set. Specifically, the participants will tackle a multi-class classification problem on this dataset, focusing on optimizing the energy-accuracy trade-off during the inference phase. We’re eager to see innovative approaches that effectively balance minimizing the average energy consumption with delivering accurate results.
 
-[Competition Description](Image_Classification.pdf)
+[Competition Description](Competition_Description.pdf)
 
 ### Who Can Participate?
 
